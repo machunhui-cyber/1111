@@ -1,0 +1,7 @@
+忽略dist文件夹
+dist/
+
+忽略pdf文件
+www/*.pdf
+
+
